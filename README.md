@@ -17,4 +17,4 @@ A weather dashboard that will run in the browser and feature dynamically weather
 
 ## View Site
 
-![weather dashboard demo](./Assets/screenshot.PNG)
+![weather dashboard demo](Assets/screenshot.PNG)
