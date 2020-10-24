@@ -1,1 +1,4 @@
 # weather-web-app
+
+## Overview
+A weather dashboard that will run in the browser and feature dynamically weather updates, which will allow users to view current weather in their city. With a third-party API that allows user to access their data and functionality by making requests with specific parameters to a URL.
